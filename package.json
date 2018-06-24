@@ -20,5 +20,12 @@
   "bugs": {
     "url": "https://github.com/mikechau/jambot/issues"
   },
-  "homepage": "https://github.com/mikechau/jambot#readme"
+  "homepage": "https://github.com/mikechau/jambot#readme",
+  "dependencies": {
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1"
+  },
+  "devDependencies": {
+    "next": "^6.0.3"
+  }
 }
